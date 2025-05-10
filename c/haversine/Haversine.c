@@ -9,3 +9,10 @@
  * Version: 1.0
  * Contact: matthew.gasiorek.coding@gmail.com
  */
+#include <stdio.h>
+
+int main() 
+{
+    printf("Hello, World!\n");
+    return 0;
+}
