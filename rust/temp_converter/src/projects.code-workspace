@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../coding_exercises"
+		},
+		{
+			"path": "../../../../c"
+		},
+		{
+			"path": "../../../../python"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"math.h": "c",
+			"sdl.h": "c"
+		}
+	}
+}
